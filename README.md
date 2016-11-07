@@ -1,3 +1,8 @@
+This fork fixes and improve IPTorrents querying and adds support for streaming movies using [Peerflix](https://github.com/mafintosh/peerflix).
+
+Run CouchPotato from the command line to see the output from Peerflix. Stop Peerflix from downloading by killing the Peerflix process.
+
+=====
 CouchPotato
 =====
 
